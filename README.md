@@ -3,7 +3,7 @@
 
 <p>NightByteDash is an financial gui application shows three different charts: Revenue, Customers, and Products sold.
 I design an application using Figma where I was brainstorming and creating few rectangular shapes, textboxes, and some icons.
-I imported Matploit to create area chart, table chart, and ciruclar chart. I created data.py file and gets sales, table data, and revenue from NightByte company's data to show
+I imported Matplotlab to create area chart, table chart, and ciruclar chart. I created data.py file and gets sales, table data, and revenue from NightByte company's data to show
 in each graphs. 
 </p>
 
