@@ -1,6 +1,3 @@
-# NightByteDash
-
-
 <h1>NightByteDash Financial GUI with Tkinter</h1>
 <img width="1057" height="622" alt="image" src="https://github.com/user-attachments/assets/d2195283-4e09-4069-b0ea-fdcb883430e3" />
 
